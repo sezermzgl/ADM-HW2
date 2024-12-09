@@ -1,0 +1,10 @@
+pandas
+gdown
+plotly
+matplotlib
+seaborn
+pytest
+openai
+numpy
+statsmodels
+kagglehub
